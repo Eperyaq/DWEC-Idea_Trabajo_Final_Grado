@@ -14,7 +14,7 @@
 
    - Es una página bastante completa, me gusta todos los apartados que tiene pero he notado que le falta algo de movimiento a la página, algo de dinamismo.  
    Por tanto en mi página, jugaría con el Css para que sea más dinámica y aparte pondría un apartado, un link o algunas imágenes con algunos ejemplos de los diseños que puedes realizarte.  
-   Lo Mismo con los piercings, un pequeño album con los piercings que se pueden hacer y los ressultados en otras personas.
+   Lo Mismo con los piercings, un pequeño album con los piercings que se pueden hacer y los resultados en otras personas.
 
 ## 4. **Funcionalidades clave**:
    - Primeramente deberás iniciar sesión, así introducimos un poco la base de datos para guardar los datos de la sesión.
@@ -56,11 +56,11 @@ https://blog.hubspot.es/website/que-es-desarrollo-web#lenguajes) He llegado a la
          - Mejora en la consistencia.
          - Eficiencia en el mantenimiento.
       - Desventajas:
-         - Curva de aprendizaje para tecnicas avanzadas.
+         - Curva de aprendizaje para técnicas avanzadas.
          - Inconsistencia entre navegadores.
          - Sobrecarga de estilos.
          ---
-      3. **JavaScript**: Es uno de los lenguajes mas apreciados ya que con el se facilita la interactividad con el cliente y el dinamismo de la página.
+      3. **JavaScript**: Es uno de los lenguajes más apreciados ya que con el se facilita la interactividad con el cliente y el dinamismo de la página.
       - Sus ventajas son: 
          - Comunicación inmediata entre el cliente y el servidor.
          - Creación de formularios interactivos.
@@ -97,7 +97,7 @@ Los lenguajes de programación a utilizar son: **Html, Css, JavaScript, Java y R
 ###  Evaluación de los mecanismos de integración de lenguajes de marcas con lenguajes de programación de clientes web.
 - Por ejemplo, al hacer un formulario en HTML, JavaScript puede validar si los datos introducidos son correctos antes de enviarlos al servidor, además de que javaScript interactúa directamente con el cliente.
 
-###  Evaluacion de herramientas de programacion para clientes web.
+###  Evaluacion de herramientas de programación para clientes web.
 
 - El IDE principal que usaría sería VisualStudio Code ya que es el que más conozco y estoy familiarizado con el y con sus extensiones, a parte de ser extremadamente poderoso ya que ofrece soporte nativo para JavaScript HTML y CSS
        
